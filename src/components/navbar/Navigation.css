@@ -1,0 +1,15 @@
+.badgeCount {
+  position: relative;
+}
+.badgeCss {
+  min-height: 20px !important;
+  min-height: 20px;
+  background-color: red;
+  color: black;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 50%;
+  position: absolute;
+  top: 2px;
+  right: 5px;
+}
